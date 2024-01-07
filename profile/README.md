@@ -1,11 +1,20 @@
-## Hi there 👋
+## Welcome, Ninjas! 👋🥷 
 
-> Collection of live class activities, solutions, and curriculum development repositories.
+> A collection of live class code-along, activities, assignment solutions, and curriculum development repositories.
+
+
+<center> <img src="../images/Data Science Thumbnail.png" width=400></center>
+
 
 ## Important Repos & Resources
-- [dojo-env-setup Repository](https://github.com/coding-dojo-data-science/dojo-env-setup)
+
+- 📀 [dojo-env-setup Repository](https://github.com/coding-dojo-data-science/dojo-env-setup)
     - Online dojo-env-setup Instructions:
       - [Overview Page](https://hackmd.io/@jirvingphd/dojo-env-overview)
+
+- 📔 [Example Project Analyzing Ames Housing Data](https://github.com/coding-dojo-data-science/Example-Project-Analyzing-Ames-Housing)
+
+
 
 <!--
 

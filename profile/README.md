@@ -3,7 +3,7 @@
 > A collection of live class code-along, activities, assignment solutions, and curriculum development repositories.
 
 
-<center> <img src="../images/Data Science Thumbnail.png" width=400></center>
+<center> <img src="images/Data Science Thumbnail.png" width=400></center>
 
 
 ## Important Repos & Resources

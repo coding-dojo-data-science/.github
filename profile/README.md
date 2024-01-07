@@ -13,7 +13,7 @@
       - [Overview Page](https://hackmd.io/@jirvingphd/dojo-env-overview)
 
 - 📔 [Example Project Analyzing Ames Housing Data](https://github.com/coding-dojo-data-science/Example-Project-Analyzing-Ames-Housing)
-
+- 🎓 [Post-Graduation Recommended Resources Spreadsheet](https://github.com/coding-dojo-data-science/.github/blob/main/images/Data%20Science%20Thumbnail.png?raw=true)
 
 
 <!--
